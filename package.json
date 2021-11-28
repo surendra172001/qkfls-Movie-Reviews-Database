@@ -5,7 +5,7 @@
   "version": "0.1.1",
   "private": false,
   "engines": {
-    "node": ">=0.10.3 <15"
+    "node": "12.x"
   },
   "scripts": {
     "start": "node server.js"
