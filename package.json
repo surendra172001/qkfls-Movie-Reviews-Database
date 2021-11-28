@@ -1,5 +1,5 @@
 {
-  "name": "Movie Reviews Database",
+  "name": "movie-reviews-database",
   "main": "server.js",
   "description": "An introduction to developing Node.js apps on the IBM Cloud platform",
   "version": "0.1.1",
