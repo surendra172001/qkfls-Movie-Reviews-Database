@@ -1,11 +1,11 @@
 {
-  "name": "get-started-node",
+  "name": "Movie Reviews Database",
   "main": "server.js",
   "description": "An introduction to developing Node.js apps on the IBM Cloud platform",
   "version": "0.1.1",
   "private": false,
   "engines": {
-    "node": "10.*"
+    "node": ">=0.10.3 <15",
   },
   "scripts": {
     "start": "node server.js"
